@@ -1,0 +1,2016 @@
+[
+  {
+    "id": "vehicle-01",
+    "name": "东风六方车",
+    "brand": "东风",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "东风常温面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "宁德时代电池，41.86度"
+      },
+      {
+        "label": "续航",
+        "value": "275公里"
+      },
+      {
+        "label": "货厢尺寸长宽高（原文）",
+        "value": "2.59 × 1.54 × 1.3"
+      },
+      {
+        "label": "轮毂间距",
+        "value": "1.15"
+      },
+      {
+        "label": "配置",
+        "value": "后尾门宽度1.27，高度1.16，对角1.6"
+      },
+      {
+        "label": "总质量",
+        "value": "3000kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-01/image3.webp",
+      "/vehicles/vehicle-01/image1.webp",
+      "/vehicles/vehicle-01/image7.webp",
+      "/vehicles/vehicle-01/image10.webp",
+      "/vehicles/vehicle-01/image11.webp",
+      "/vehicles/vehicle-01/image9.webp"
+    ],
+    "sourceFiles": [
+      "东风6方车.docx",
+      "东风六方车.docx"
+    ],
+    "battery": "宁德时代电池，41.86度",
+    "range": "275公里",
+    "cargoVolume": "6方",
+    "payload": "",
+    "dimensions": "2.59 × 1.54 × 1.3"
+  },
+  {
+    "id": "vehicle-03",
+    "name": "东风福瑞通V8E",
+    "brand": "东风",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "后置后驱货运版，右侧滑门与270°对开尾门，标配快慢充和倒车影像。",
+    "highlights": [
+      "常温",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "宁德时代53.58度"
+      },
+      {
+        "label": "续航",
+        "value": "355km"
+      },
+      {
+        "label": "车身外尺寸",
+        "value": "5270 × 1890 × 1998mm"
+      },
+      {
+        "label": "货厢尺寸",
+        "value": "3040 × 1760 × 1360mm"
+      },
+      {
+        "label": "轮包间距",
+        "value": "1350mm"
+      },
+      {
+        "label": "驱动形式",
+        "value": "后置后驱"
+      },
+      {
+        "label": "车门",
+        "value": "右侧滑门 / 270°对开尾门"
+      },
+      {
+        "label": "配置",
+        "value": "快慢充、13寸中控屏、倒车影像、PVC货箱地板"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-03/image5.webp",
+      "/vehicles/vehicle-03/image1.webp",
+      "/vehicles/vehicle-03/image3.webp",
+      "/vehicles/vehicle-03/image4.webp",
+      "/vehicles/vehicle-03/image6.webp",
+      "/vehicles/vehicle-03/image8.webp"
+    ],
+    "sourceFiles": [
+      "东风福瑞通V8E.docx"
+    ],
+    "battery": "宁德时代53.58度",
+    "range": "355km",
+    "cargoVolume": "",
+    "payload": "",
+    "dimensions": "3040 × 1760 × 1360mm"
+  },
+  {
+    "id": "vehicle-04",
+    "name": "五菱菱势黄金仓7方冷藏",
+    "brand": "五菱",
+    "temperature": "冷藏",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "五菱冷藏面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "冷藏",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "宁德时代电池，53.58度"
+      },
+      {
+        "label": "续航",
+        "value": "300公里"
+      },
+      {
+        "label": "货箱尺寸长宽高（原文）",
+        "value": "2.74 × 1.3 × 1.23"
+      },
+      {
+        "label": "冷风机至车厢底部高度",
+        "value": "1.12"
+      },
+      {
+        "label": "配置",
+        "value": "侧滑门，尾门对开"
+      },
+      {
+        "label": "总质量",
+        "value": "3000kg"
+      },
+      {
+        "label": "整车整备质量",
+        "value": "1600kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-04/image4.webp",
+      "/vehicles/vehicle-04/image5.webp",
+      "/vehicles/vehicle-04/image2.webp",
+      "/vehicles/vehicle-04/image8.webp",
+      "/vehicles/vehicle-04/image11.webp",
+      "/vehicles/vehicle-04/image12.webp"
+    ],
+    "sourceFiles": [
+      "五菱菱势黄金仓7方冷藏.docx"
+    ],
+    "battery": "宁德时代电池，53.58度",
+    "range": "300公里",
+    "cargoVolume": "7方",
+    "payload": "",
+    "dimensions": "2.74 × 1.3 × 1.23"
+  },
+  {
+    "id": "vehicle-05",
+    "name": "凯翼海豚K7（开瑞海豚K7）客运版",
+    "brand": "凯翼 / 开瑞",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "凯翼 / 开瑞常温面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "面包",
+      "客运版"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "瑞露电池（开瑞自己的品牌电池），62.98度"
+      },
+      {
+        "label": "续航",
+        "value": "350公里"
+      },
+      {
+        "label": "货箱尺寸长宽高（原文）",
+        "value": "3.45 × 1.68 × 1.45"
+      },
+      {
+        "label": "配置",
+        "value": "尾门对开"
+      },
+      {
+        "label": "总质量",
+        "value": "3060kg"
+      },
+      {
+        "label": "额定载重",
+        "value": "1290kg"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-05/image3.webp",
+      "/vehicles/vehicle-05/image5.webp",
+      "/vehicles/vehicle-05/image1.webp",
+      "/vehicles/vehicle-05/image4.webp",
+      "/vehicles/vehicle-05/image7.webp"
+    ],
+    "sourceFiles": [
+      "凯翼海豚K7（开瑞海豚K7）客运版.docx"
+    ],
+    "battery": "瑞露电池（开瑞自己的品牌电池），62.98度",
+    "range": "350公里",
+    "cargoVolume": "",
+    "payload": "1290kg",
+    "dimensions": "3.45 × 1.68 × 1.45"
+  },
+  {
+    "id": "vehicle-06",
+    "name": "凯马凯捷EM6冷藏车",
+    "brand": "凯马",
+    "temperature": "冷藏",
+    "bodyType": "厢货",
+    "bodyTypes": [
+      "厢货"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "亿纬140.15kWh电池，双快充，2030mm宽体驾驶室。",
+    "highlights": [
+      "冷藏",
+      "厢货"
+    ],
+    "specs": [
+      {
+        "label": "车辆类型",
+        "value": "纯电动冷藏车"
+      },
+      {
+        "label": "动力电池",
+        "value": "亿纬140.15kWh"
+      },
+      {
+        "label": "电池种类",
+        "value": "磷酸铁锂电池"
+      },
+      {
+        "label": "续航里程",
+        "value": "400km"
+      },
+      {
+        "label": "电机生产商",
+        "value": "汇川"
+      },
+      {
+        "label": "电机功率",
+        "value": "70 / 140kW"
+      },
+      {
+        "label": "驾驶室宽度",
+        "value": "2030mm"
+      },
+      {
+        "label": "充电方式",
+        "value": "双快充，0–80%约30分钟"
+      },
+      {
+        "label": "冷却方式",
+        "value": "液冷、液热"
+      },
+      {
+        "label": "座位数",
+        "value": "3座"
+      },
+      {
+        "label": "轴距",
+        "value": "3500mm"
+      },
+      {
+        "label": "安全系统",
+        "value": "ESC、ABS、AEBS、LDWS"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-06/image2.webp",
+      "/vehicles/vehicle-06/image1.webp",
+      "/vehicles/vehicle-06/image3.webp",
+      "/vehicles/vehicle-06/image5.webp",
+      "/vehicles/vehicle-06/image4.webp",
+      "/vehicles/vehicle-06/image6.webp"
+    ],
+    "sourceFiles": [
+      "凯马凯捷EM6冷藏车.docx"
+    ],
+    "battery": "亿纬140.15kWh",
+    "range": "400km",
+    "cargoVolume": "",
+    "payload": "",
+    "dimensions": ""
+  },
+  {
+    "id": "vehicle-07",
+    "name": "凯马锐捷（骏航ES7）六方冷藏车",
+    "brand": "凯马",
+    "temperature": "冷藏",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "凯马冷藏面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "冷藏",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "国轩电池，41.93度"
+      },
+      {
+        "label": "续航",
+        "value": "260公里"
+      },
+      {
+        "label": "货箱尺寸长宽高（原文）",
+        "value": " 3 × 1.49 × 1.31"
+      },
+      {
+        "label": "轮毂间距",
+        "value": "1.15"
+      },
+      {
+        "label": "配置",
+        "value": "后尾门宽度1.24，高度1.16，对角1.62"
+      },
+      {
+        "label": "配置",
+        "value": "侧拉门，对开尾门"
+      },
+      {
+        "label": "总质量",
+        "value": "3150"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-07/image3.webp",
+      "/vehicles/vehicle-07/image2.webp",
+      "/vehicles/vehicle-07/image4.webp",
+      "/vehicles/vehicle-07/image11.webp",
+      "/vehicles/vehicle-07/image12.webp",
+      "/vehicles/vehicle-07/image9.webp"
+    ],
+    "sourceFiles": [
+      "凯马锐捷（骏航ES7）六方冷藏车.docx"
+    ],
+    "battery": "国轩电池，41.93度",
+    "range": "260公里",
+    "cargoVolume": "6方",
+    "payload": "",
+    "dimensions": " 3 × 1.49 × 1.31"
+  },
+  {
+    "id": "vehicle-08",
+    "name": "吉利远程V6E客运版",
+    "brand": "吉利远程",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "吉利远程常温面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "面包",
+      "客运版"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "宁德时代电池，41.86度"
+      },
+      {
+        "label": "续航",
+        "value": "260公里"
+      },
+      {
+        "label": "货箱尺寸长宽高（原文）",
+        "value": "2.83 × 1.6 × 1.27"
+      },
+      {
+        "label": "轮毂间距",
+        "value": "1.19"
+      },
+      {
+        "label": "配置",
+        "value": "后尾门宽度1.18，高度1.15，斜对角1.64"
+      },
+      {
+        "label": "配置",
+        "value": "侧拉门，对开尾门"
+      },
+      {
+        "label": "总质量",
+        "value": "2325kg"
+      },
+      {
+        "label": "座位数",
+        "value": "6人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-08/image6.webp",
+      "/vehicles/vehicle-08/image2.webp",
+      "/vehicles/vehicle-08/image7.webp",
+      "/vehicles/vehicle-08/image8.webp",
+      "/vehicles/vehicle-08/image9.webp",
+      "/vehicles/vehicle-08/image10.webp"
+    ],
+    "sourceFiles": [
+      "吉利远程V6E客运版.docx"
+    ],
+    "battery": "宁德时代电池，41.86度",
+    "range": "260公里",
+    "cargoVolume": "",
+    "payload": "",
+    "dimensions": "2.83 × 1.6 × 1.27"
+  },
+  {
+    "id": "vehicle-09",
+    "name": "吉利远程V7E",
+    "brand": "吉利远程",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "吉利远程常温面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "智芯电池，48.38度"
+      },
+      {
+        "label": "续航",
+        "value": "260公里"
+      },
+      {
+        "label": "货箱尺寸长宽高（原文）",
+        "value": "3.2 × 1.6 × 1.28"
+      },
+      {
+        "label": "配置",
+        "value": "后尾门宽度1.25，高度1.15，对角1.56"
+      },
+      {
+        "label": "配置",
+        "value": "侧门上下开，对开尾门"
+      },
+      {
+        "label": "总质量",
+        "value": "3000kg"
+      },
+      {
+        "label": "整车整备质量",
+        "value": "1660kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-09/image4.webp",
+      "/vehicles/vehicle-09/image2.webp",
+      "/vehicles/vehicle-09/image5.webp",
+      "/vehicles/vehicle-09/image7.webp",
+      "/vehicles/vehicle-09/image11.webp",
+      "/vehicles/vehicle-09/image12.webp"
+    ],
+    "sourceFiles": [
+      "吉利远程V7E.docx"
+    ],
+    "battery": "智芯电池，48.38度",
+    "range": "260公里",
+    "cargoVolume": "",
+    "payload": "",
+    "dimensions": "3.2 × 1.6 × 1.28"
+  },
+  {
+    "id": "vehicle-10",
+    "name": "吉利远程星享V6E",
+    "brand": "吉利远程",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "吉利远程常温面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "宁德时代电池，41.86度"
+      },
+      {
+        "label": "续航",
+        "value": "260公里"
+      },
+      {
+        "label": "货箱尺寸长宽高（原文）",
+        "value": "2.8 × 1.59 × 1.34"
+      },
+      {
+        "label": "轮毂间距",
+        "value": "1.19"
+      },
+      {
+        "label": "配置",
+        "value": "后尾门宽度1.26，高度1.15，对角1.64"
+      },
+      {
+        "label": "配置",
+        "value": "侧拉门，对开尾门"
+      },
+      {
+        "label": "总质量",
+        "value": "3000kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      },
+      {
+        "label": "配置",
+        "value": "自带倒车影像、倒车雷达"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-10/image5.webp",
+      "/vehicles/vehicle-10/image6.webp",
+      "/vehicles/vehicle-10/image1.webp",
+      "/vehicles/vehicle-10/image10.webp",
+      "/vehicles/vehicle-10/image8.webp",
+      "/vehicles/vehicle-10/image9.webp"
+    ],
+    "sourceFiles": [
+      "吉利远程星享V6E.docx"
+    ],
+    "battery": "宁德时代电池，41.86度",
+    "range": "260公里",
+    "cargoVolume": "",
+    "payload": "",
+    "dimensions": "2.8 × 1.59 × 1.34"
+  },
+  {
+    "id": "vehicle-11",
+    "name": "吉利远程星智H8E（盘古版）4.2米厢货",
+    "brand": "吉利远程",
+    "temperature": "常温",
+    "bodyType": "厢货",
+    "bodyTypes": [
+      "厢货"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "吉利远程常温厢货车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "厢货"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "宁德时代电池，100度电"
+      },
+      {
+        "label": "续航",
+        "value": "260公里"
+      },
+      {
+        "label": "货厢尺寸长宽高（原文）",
+        "value": "4.15 × 2.1 × 2.1"
+      },
+      {
+        "label": "配置",
+        "value": "侧拉门，对开尾门"
+      },
+      {
+        "label": "总质量",
+        "value": "4495kg"
+      },
+      {
+        "label": "额定载重",
+        "value": "1150kg"
+      },
+      {
+        "label": "座位数",
+        "value": "3人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-11/image2.webp",
+      "/vehicles/vehicle-11/image1.webp",
+      "/vehicles/vehicle-11/image3.webp"
+    ],
+    "sourceFiles": [
+      "吉利远程星智H8E（盘古版）4.2米厢货.docx"
+    ],
+    "battery": "宁德时代电池，100度电",
+    "range": "260公里",
+    "cargoVolume": "",
+    "payload": "1150kg",
+    "dimensions": "4.15 × 2.1 × 2.1"
+  },
+  {
+    "id": "vehicle-12",
+    "name": "奇瑞江豚二号",
+    "brand": "奇瑞",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "奇瑞常温面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "中航电池，38.6度"
+      },
+      {
+        "label": "续航",
+        "value": "220公里"
+      },
+      {
+        "label": "货厢尺寸长宽高（原文）",
+        "value": "2.77 × 1.57 × 1.32"
+      },
+      {
+        "label": "配置",
+        "value": "后尾门宽度1.32，高1.14，对角1.57"
+      },
+      {
+        "label": "轮毂间距",
+        "value": "1.22"
+      },
+      {
+        "label": "侧门宽度",
+        "value": "1.1"
+      },
+      {
+        "label": "配置",
+        "value": "侧滑门➕对开尾门"
+      },
+      {
+        "label": "总质量",
+        "value": "2680kg"
+      },
+      {
+        "label": "整车整备质量",
+        "value": "1485kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-12/image2.webp",
+      "/vehicles/vehicle-12/image1.webp",
+      "/vehicles/vehicle-12/image7.webp",
+      "/vehicles/vehicle-12/image4.webp",
+      "/vehicles/vehicle-12/image5.webp",
+      "/vehicles/vehicle-12/image12.webp"
+    ],
+    "sourceFiles": [
+      "奇瑞江豚二号.docx"
+    ],
+    "battery": "中航电池，38.6度",
+    "range": "220公里",
+    "cargoVolume": "",
+    "payload": "",
+    "dimensions": "2.77 × 1.57 × 1.32"
+  },
+  {
+    "id": "vehicle-13",
+    "name": "开瑞小象X7 3.8平板",
+    "brand": "开瑞",
+    "temperature": "常温",
+    "bodyType": "平板",
+    "bodyTypes": [
+      "平板"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "开瑞常温平板车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "平板"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "瑞露电池（开瑞自己的品牌电池），62.98度"
+      },
+      {
+        "label": "续航",
+        "value": "350公里"
+      },
+      {
+        "label": "车厢尺寸长宽高（原文）",
+        "value": "3.81 × 1.82 × 0.38"
+      },
+      {
+        "label": "总质量",
+        "value": "3495kg"
+      },
+      {
+        "label": "整备质量",
+        "value": "1965kg"
+      },
+      {
+        "label": "额定载质量",
+        "value": "1400kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-13/image6.webp",
+      "/vehicles/vehicle-13/image5.webp",
+      "/vehicles/vehicle-13/image2.webp",
+      "/vehicles/vehicle-13/image7.webp",
+      "/vehicles/vehicle-13/image8.webp"
+    ],
+    "sourceFiles": [
+      "开瑞小象X7 3.8平板.docx"
+    ],
+    "battery": "瑞露电池（开瑞自己的品牌电池），62.98度",
+    "range": "350公里",
+    "cargoVolume": "",
+    "payload": "1400kg",
+    "dimensions": "3.81 × 1.82 × 0.38"
+  },
+  {
+    "id": "vehicle-14",
+    "name": "开瑞江豚六方",
+    "brand": "开瑞",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "开瑞常温面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "国轩电池，40.5度"
+      },
+      {
+        "label": "续航",
+        "value": "275公里"
+      },
+      {
+        "label": "货箱尺寸长宽高（原文）",
+        "value": "2.65 × 1.57 × 1.35"
+      },
+      {
+        "label": "轮毂间距",
+        "value": "1.22"
+      },
+      {
+        "label": "配置",
+        "value": "后尾门宽度1.3，高度1.16，对角1.58"
+      },
+      {
+        "label": "配置",
+        "value": "侧拉门，尾门上下开"
+      },
+      {
+        "label": "总质量",
+        "value": "2680kg"
+      },
+      {
+        "label": "核载",
+        "value": "1038kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-14/image4.webp",
+      "/vehicles/vehicle-14/image7.webp",
+      "/vehicles/vehicle-14/image3.webp",
+      "/vehicles/vehicle-14/image9.webp",
+      "/vehicles/vehicle-14/image10.webp",
+      "/vehicles/vehicle-14/image11.webp"
+    ],
+    "sourceFiles": [
+      "开瑞江豚六方.docx"
+    ],
+    "battery": "国轩电池，40.5度",
+    "range": "275公里",
+    "cargoVolume": "6方",
+    "payload": "1038kg",
+    "dimensions": "2.65 × 1.57 × 1.35"
+  },
+  {
+    "id": "vehicle-15",
+    "name": "江淮万宝路八方车",
+    "brand": "江淮",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "江淮常温面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "宁德时代电池，53.58度"
+      },
+      {
+        "label": "续航",
+        "value": "286公里"
+      },
+      {
+        "label": "货厢尺寸长宽高（原文）",
+        "value": "3.3 × 1.74 × 1.39"
+      },
+      {
+        "label": "配置",
+        "value": "侧门上下开，尾门对开"
+      },
+      {
+        "label": "总质量",
+        "value": "3000kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-15/image4.webp",
+      "/vehicles/vehicle-15/image1.webp",
+      "/vehicles/vehicle-15/image5.webp",
+      "/vehicles/vehicle-15/image8.webp",
+      "/vehicles/vehicle-15/image12.webp",
+      "/vehicles/vehicle-15/image13.webp"
+    ],
+    "sourceFiles": [
+      "江淮万宝路八方车.docx"
+    ],
+    "battery": "宁德时代电池，53.58度",
+    "range": "286公里",
+    "cargoVolume": "8方",
+    "payload": "",
+    "dimensions": "3.3 × 1.74 × 1.39"
+  },
+  {
+    "id": "vehicle-16",
+    "name": "江淮万宝路冷藏车",
+    "brand": "江淮",
+    "temperature": "冷藏",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "江淮冷藏面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "冷藏",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "宁德时代电池，53.58度"
+      },
+      {
+        "label": "续航",
+        "value": "301公里"
+      },
+      {
+        "label": "货厢尺寸长宽高（原文）",
+        "value": "3.1 × 1.65 × 1.3"
+      },
+      {
+        "label": "配置",
+        "value": "侧门上下开，尾门对开"
+      },
+      {
+        "label": "总质量",
+        "value": "3300kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-16/image4.webp",
+      "/vehicles/vehicle-16/image2.webp",
+      "/vehicles/vehicle-16/image5.webp",
+      "/vehicles/vehicle-16/image6.webp",
+      "/vehicles/vehicle-16/image7.webp",
+      "/vehicles/vehicle-16/image9.webp"
+    ],
+    "sourceFiles": [
+      "江淮万宝路冷藏车.docx"
+    ],
+    "battery": "宁德时代电池，53.58度",
+    "range": "301公里",
+    "cargoVolume": "",
+    "payload": "",
+    "dimensions": "3.1 × 1.65 × 1.3"
+  },
+  {
+    "id": "vehicle-17",
+    "name": "江淮万宝路十方车",
+    "brand": "江淮",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "江淮常温面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "宁德时代电池，53.58度"
+      },
+      {
+        "label": "续航",
+        "value": "286公里"
+      },
+      {
+        "label": "货厢尺寸长宽高（原文）",
+        "value": "3.44 × 1.75 × 1.68"
+      },
+      {
+        "label": "配置",
+        "value": "侧门上下开，尾门对开"
+      },
+      {
+        "label": "总质量",
+        "value": "3300kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-17/image5.webp",
+      "/vehicles/vehicle-17/image2.webp",
+      "/vehicles/vehicle-17/image3.webp",
+      "/vehicles/vehicle-17/image6.webp",
+      "/vehicles/vehicle-17/image8.webp"
+    ],
+    "sourceFiles": [
+      "江淮万宝路十方车.docx"
+    ],
+    "battery": "宁德时代电池，53.58度",
+    "range": "286公里",
+    "cargoVolume": "10方",
+    "payload": "",
+    "dimensions": "3.44 × 1.75 × 1.68"
+  },
+  {
+    "id": "vehicle-18",
+    "name": "江淮恺达3.8平板车",
+    "brand": "江淮",
+    "temperature": "常温",
+    "bodyType": "平板",
+    "bodyTypes": [
+      "平板"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "江淮常温平板车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "平板"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "宁德时代电池，63.75度"
+      },
+      {
+        "label": "续航",
+        "value": "320公里"
+      },
+      {
+        "label": "货厢尺寸长宽高（原文）",
+        "value": "3.75 × 1.95 × 0.35"
+      },
+      {
+        "label": "总质量",
+        "value": "3495kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-18/image5.webp",
+      "/vehicles/vehicle-18/image3.webp",
+      "/vehicles/vehicle-18/image4.webp",
+      "/vehicles/vehicle-18/image2.webp",
+      "/vehicles/vehicle-18/image6.webp"
+    ],
+    "sourceFiles": [
+      "江淮恺达3.8平板车.docx"
+    ],
+    "battery": "宁德时代电池，63.75度",
+    "range": "320公里",
+    "cargoVolume": "",
+    "payload": "",
+    "dimensions": "3.75 × 1.95 × 0.35"
+  },
+  {
+    "id": "vehicle-19",
+    "name": "江淮蓝猫客运版",
+    "brand": "江淮",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "江淮常温面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "面包",
+      "客运版"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "国轩电池，41.93度"
+      },
+      {
+        "label": "续航",
+        "value": "260公里"
+      },
+      {
+        "label": "货箱尺寸长宽高（原文）",
+        "value": "3.15 × 1.56 × 1.36"
+      },
+      {
+        "label": "配置",
+        "value": "侧拉门，后门对开"
+      },
+      {
+        "label": "总质量",
+        "value": "2550kg"
+      },
+      {
+        "label": "座位数",
+        "value": "6人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-19/image4.webp",
+      "/vehicles/vehicle-19/image7.webp",
+      "/vehicles/vehicle-19/image2.webp",
+      "/vehicles/vehicle-19/image6.webp",
+      "/vehicles/vehicle-19/image12.webp",
+      "/vehicles/vehicle-19/image13.webp"
+    ],
+    "sourceFiles": [
+      "江淮蓝猫客运版七方车.docx"
+    ],
+    "battery": "国轩电池，41.93度",
+    "range": "260公里",
+    "cargoVolume": "",
+    "payload": "",
+    "dimensions": "3.15 × 1.56 × 1.36"
+  },
+  {
+    "id": "vehicle-20",
+    "name": "江淮蓝猫货运版六方车",
+    "brand": "江淮",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "江淮常温面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "国轩电池，41.93度"
+      },
+      {
+        "label": "续航",
+        "value": "260公里"
+      },
+      {
+        "label": "货箱尺寸长宽高（原文）",
+        "value": "2.75 × 1.58 × 1.3"
+      },
+      {
+        "label": "轮毂间距",
+        "value": "1.23"
+      },
+      {
+        "label": "配置",
+        "value": "后尾门宽度1.28，高度1.15，对角1.56"
+      },
+      {
+        "label": "配置",
+        "value": "侧拉门，后门上下开"
+      },
+      {
+        "label": "总质量",
+        "value": "2680kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-20/image4.webp",
+      "/vehicles/vehicle-20/image5.webp",
+      "/vehicles/vehicle-20/image2.webp",
+      "/vehicles/vehicle-20/image6.webp",
+      "/vehicles/vehicle-20/image8.webp"
+    ],
+    "sourceFiles": [
+      "江淮蓝猫货运版六方车.docx"
+    ],
+    "battery": "国轩电池，41.93度",
+    "range": "260公里",
+    "cargoVolume": "6方",
+    "payload": "",
+    "dimensions": "2.75 × 1.58 × 1.3"
+  },
+  {
+    "id": "vehicle-21",
+    "name": "江淮骏铃EV9 4.2米冷藏车",
+    "brand": "江淮",
+    "temperature": "冷藏",
+    "bodyType": "厢货",
+    "bodyTypes": [
+      "厢货"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "江淮冷藏厢货车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "冷藏",
+      "厢货"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "亿纬电池，140度"
+      },
+      {
+        "label": "续航",
+        "value": "360公里"
+      },
+      {
+        "label": "货厢尺寸长宽高（原文）",
+        "value": "4 × 2.3 × 2.3"
+      },
+      {
+        "label": "配置",
+        "value": "侧拉门，对开尾门"
+      },
+      {
+        "label": "总质量",
+        "value": "4495kg"
+      },
+      {
+        "label": "额定载重",
+        "value": "1120kg"
+      },
+      {
+        "label": "座位数",
+        "value": "3人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-21/image2.webp",
+      "/vehicles/vehicle-21/image4.webp",
+      "/vehicles/vehicle-21/image7.webp",
+      "/vehicles/vehicle-21/image9.webp",
+      "/vehicles/vehicle-21/image10.webp"
+    ],
+    "sourceFiles": [
+      "江淮骏铃EV9 4.2米冷藏车.docx"
+    ],
+    "battery": "亿纬电池，140度",
+    "range": "360公里",
+    "cargoVolume": "",
+    "payload": "1120kg",
+    "dimensions": "4 × 2.3 × 2.3"
+  },
+  {
+    "id": "vehicle-22",
+    "name": "瑞驰EC75",
+    "brand": "瑞驰",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "瑞驰常温面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "中航电池电池，41.86度"
+      },
+      {
+        "label": "续航",
+        "value": "252公里"
+      },
+      {
+        "label": "货厢尺寸长宽高（原文）",
+        "value": "2.75 × 1.66 × 1.45"
+      },
+      {
+        "label": "总质量",
+        "value": "3000kg"
+      },
+      {
+        "label": "额定载重",
+        "value": "1120kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-22/image5.webp",
+      "/vehicles/vehicle-22/image4.webp",
+      "/vehicles/vehicle-22/image2.webp",
+      "/vehicles/vehicle-22/image10.webp",
+      "/vehicles/vehicle-22/image11.webp",
+      "/vehicles/vehicle-22/image12.webp"
+    ],
+    "sourceFiles": [
+      "瑞驰EC75.docx"
+    ],
+    "battery": "中航电池，41.86度",
+    "range": "252公里",
+    "cargoVolume": "",
+    "payload": "1120kg",
+    "dimensions": "2.75 × 1.66 × 1.45"
+  },
+  {
+    "id": "vehicle-23",
+    "name": "福田卡文乐福中VAN",
+    "brand": "福田",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "可选7方、8方、9方车厢，提供客运与货运版本，多种电池配置。",
+    "highlights": [
+      "常温",
+      "面包",
+      "多种版本"
+    ],
+    "specs": [
+      {
+        "label": "可选车厢",
+        "value": "7方 / 8方 / 9方"
+      },
+      {
+        "label": "7方外尺寸（原文）",
+        "value": "4885 × 1810 × 1960（原文）"
+      },
+      {
+        "label": "7方货箱",
+        "value": "2800 × 1760 × 1450（原文）"
+      },
+      {
+        "label": "8方外尺寸（原文）",
+        "value": "5185 × 1810 × 1960（原文）"
+      },
+      {
+        "label": "8方货箱",
+        "value": "3100 × 1760 × 1450（原文）"
+      },
+      {
+        "label": "9方外尺寸（原文）",
+        "value": "5185 × 1810 × 2160（原文）"
+      },
+      {
+        "label": "9方货箱",
+        "value": "3100 × 1760 × 1650（原文）"
+      },
+      {
+        "label": "续航对应版本",
+        "value": "40.18/41.86度：300km；50.23度：350km；60.37度：400km；宁德66.67度：460km"
+      },
+      {
+        "label": "电机",
+        "value": "125 / 120kW"
+      },
+      {
+        "label": "客运版座位数",
+        "value": "4 / 6 / 7 / 9座"
+      },
+      {
+        "label": "标配",
+        "value": "6.6kW慢充、220V车内取电、12.8寸中控屏、倒车影像"
+      },
+      {
+        "label": "选装",
+        "value": "L2+级辅助驾驶"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-23/image13.webp",
+      "/vehicles/vehicle-23/image15.webp",
+      "/vehicles/vehicle-23/image16.webp",
+      "/vehicles/vehicle-23/image17.webp",
+      "/vehicles/vehicle-23/image9.webp",
+      "/vehicles/vehicle-23/image11.webp",
+      "/vehicles/vehicle-23/image3.webp",
+      "/vehicles/vehicle-23/image4.webp",
+      "/vehicles/vehicle-23/image5.webp"
+    ],
+    "sourceFiles": [
+      "福田卡文乐福中VAN.docx"
+    ],
+    "battery": "40.18 / 41.86 / 50.23 / 60.37 / 66.67度",
+    "range": "300–460km（按版本）",
+    "cargoVolume": "7 / 8 / 9方",
+    "payload": "",
+    "dimensions": "2800 / 3100 × 1760 × 1450 / 1650（按版本，原文）"
+  },
+  {
+    "id": "vehicle-24",
+    "name": "福田卡文乐福六方冷藏车",
+    "brand": "福田",
+    "temperature": "冷藏",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "福田冷藏面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "冷藏",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "宁德时代电池，50.23度"
+      },
+      {
+        "label": "续航",
+        "value": "260公里"
+      },
+      {
+        "label": "货厢尺寸长宽高（原文）",
+        "value": "2.76 × 1.51 × 1.30"
+      },
+      {
+        "label": "轮毂间距",
+        "value": "1.12"
+      },
+      {
+        "label": "总质量",
+        "value": "3250kg"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-24/image7.webp",
+      "/vehicles/vehicle-24/image3.webp",
+      "/vehicles/vehicle-24/image2.webp",
+      "/vehicles/vehicle-24/image12.webp",
+      "/vehicles/vehicle-24/image14.webp",
+      "/vehicles/vehicle-24/image15.webp"
+    ],
+    "sourceFiles": [
+      "福田卡文乐福六方冷藏车.docx"
+    ],
+    "battery": "宁德时代电池，50.23度",
+    "range": "260公里",
+    "cargoVolume": "6方",
+    "payload": "",
+    "dimensions": "2.76 × 1.51 × 1.30"
+  },
+  {
+    "id": "vehicle-25",
+    "name": "福田智蓝精灵E7",
+    "brand": "福田",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "福田常温面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "宁德时代电池，41.86度"
+      },
+      {
+        "label": "续航",
+        "value": "260公里"
+      },
+      {
+        "label": "货厢尺寸长宽高（原文）",
+        "value": "3 × 1.63 × 1.36"
+      },
+      {
+        "label": "轮毂间距",
+        "value": "1.26"
+      },
+      {
+        "label": "配置",
+        "value": "后尾门宽度1.23，高度1.24，对角1.72"
+      },
+      {
+        "label": "配置",
+        "value": "侧门上下开，对开尾门"
+      },
+      {
+        "label": "总质量",
+        "value": "2810kg"
+      },
+      {
+        "label": "核载",
+        "value": "1255kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-25/image6.webp",
+      "/vehicles/vehicle-25/image7.webp",
+      "/vehicles/vehicle-25/image2.webp",
+      "/vehicles/vehicle-25/image10.webp",
+      "/vehicles/vehicle-25/image13.webp",
+      "/vehicles/vehicle-25/image14.webp"
+    ],
+    "sourceFiles": [
+      "福田智蓝精灵E7.docx"
+    ],
+    "battery": "宁德时代电池，41.86度",
+    "range": "260公里",
+    "cargoVolume": "",
+    "payload": "1255kg",
+    "dimensions": "3 × 1.63 × 1.36"
+  },
+  {
+    "id": "vehicle-26",
+    "name": "福田祥菱Q EV 3.2米冷藏车",
+    "brand": "福田",
+    "temperature": "冷藏",
+    "bodyType": "厢货",
+    "bodyTypes": [
+      "厢货"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "福田冷藏厢货车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "冷藏",
+      "厢货"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "宁德时代电池，41.86度"
+      },
+      {
+        "label": "续航",
+        "value": "260公里"
+      },
+      {
+        "label": "货箱尺寸长宽高（原文）",
+        "value": "3.05 × 1.62 × 1.68"
+      },
+      {
+        "label": "总质量",
+        "value": "3015kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-26/image3.webp",
+      "/vehicles/vehicle-26/image2.webp",
+      "/vehicles/vehicle-26/image1.webp",
+      "/vehicles/vehicle-26/image11.webp",
+      "/vehicles/vehicle-26/image9.webp",
+      "/vehicles/vehicle-26/image10.webp"
+    ],
+    "sourceFiles": [
+      "福田祥菱Q EV 3.2米冷藏车.docx"
+    ],
+    "battery": "宁德时代电池，41.86度",
+    "range": "260公里",
+    "cargoVolume": "",
+    "payload": "",
+    "dimensions": "3.05 × 1.62 × 1.68"
+  },
+  {
+    "id": "vehicle-27",
+    "name": "福田领航G6",
+    "brand": "福田",
+    "temperature": "常温",
+    "bodyType": "厢货",
+    "bodyTypes": [
+      "厢货"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "福田常温厢货车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "厢货"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "宁德时代电池，120.27度"
+      },
+      {
+        "label": "续航",
+        "value": "370公里"
+      },
+      {
+        "label": "货厢尺寸（原文）",
+        "value": "4.14 × 2.1 × 2.3 / 4.14 × 2.35 × 2.3（原文）"
+      },
+      {
+        "label": "车厢宽度说明",
+        "value": "标箱2.1，可做2.35（原文）"
+      },
+      {
+        "label": "总质量",
+        "value": "4495kg"
+      },
+      {
+        "label": "整备质量",
+        "value": "2565kg"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-27/image2.webp",
+      "/vehicles/vehicle-27/image1.webp"
+    ],
+    "sourceFiles": [
+      "福田领航G6.docx"
+    ],
+    "battery": "宁德时代电池，120.27度",
+    "range": "370公里",
+    "cargoVolume": "",
+    "payload": "",
+    "dimensions": "4.14 × 2.1 × 2.3 / 4.14 × 2.35 × 2.3（原文）"
+  },
+  {
+    "id": "vehicle-28",
+    "name": "福田领航S1",
+    "brand": "福田",
+    "temperature": "常温",
+    "bodyType": "平板",
+    "bodyTypes": [
+      "平板"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "福田常温平板车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "平板"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "爱意科电池，83.57度"
+      },
+      {
+        "label": "续航",
+        "value": "300公里"
+      },
+      {
+        "label": "货箱尺寸（原文）",
+        "value": "3.89 × 1.96 × 0.4"
+      },
+      {
+        "label": "总质量",
+        "value": "4495kg"
+      },
+      {
+        "label": "栏板高度",
+        "value": "400mm"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-28/image4.webp",
+      "/vehicles/vehicle-28/image1.webp",
+      "/vehicles/vehicle-28/image2.webp",
+      "/vehicles/vehicle-28/image3.webp",
+      "/vehicles/vehicle-28/image5.webp",
+      "/vehicles/vehicle-28/image8.webp"
+    ],
+    "sourceFiles": [
+      "福田领航S1.docx"
+    ],
+    "battery": "爱意科电池，83.57度",
+    "range": "300公里",
+    "cargoVolume": "",
+    "payload": "",
+    "dimensions": "3.89 × 1.96 × 0.4"
+  },
+  {
+    "id": "vehicle-29",
+    "name": "福田风景i9+",
+    "brand": "福田",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "长轴中顶，提供宁德时代66.67度与爱易科60.37度两种电池版本。",
+    "highlights": [
+      "常温",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "版本一",
+        "value": "宁德时代66.67度，续航450km，自带2C超充"
+      },
+      {
+        "label": "版本二",
+        "value": "爱易科60.37度，续航420km"
+      },
+      {
+        "label": "车身",
+        "value": "长轴中顶"
+      },
+      {
+        "label": "轴距",
+        "value": "3400mm"
+      },
+      {
+        "label": "外轮廓尺寸",
+        "value": "5.195 × 1.81 × 2.16m"
+      },
+      {
+        "label": "货厢尺寸",
+        "value": "3.1 × 1.76 × 1.65m"
+      },
+      {
+        "label": "最高车速",
+        "value": "100km/h"
+      },
+      {
+        "label": "配置",
+        "value": "V2L外放电、ABS、EBD、倒车影像、定速巡航"
+      },
+      {
+        "label": "总重量",
+        "value": "3300kg"
+      },
+      {
+        "label": "整备质量",
+        "value": "1790kg"
+      },
+      {
+        "label": "轮胎",
+        "value": "195/75R16LT"
+      },
+      {
+        "label": "驱动方式",
+        "value": "前置前驱"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-29/image1.webp",
+      "/vehicles/vehicle-29/image2.webp",
+      "/vehicles/vehicle-29/image3.webp",
+      "/vehicles/vehicle-29/image4.webp",
+      "/vehicles/vehicle-29/image5.webp",
+      "/vehicles/vehicle-29/image6.webp"
+    ],
+    "sourceFiles": [
+      "福田风景i9+.docx"
+    ],
+    "battery": "宁德时代66.67度 / 爱易科60.37度",
+    "range": "450km / 420km（按版本）",
+    "cargoVolume": "",
+    "payload": "",
+    "dimensions": "3.1 × 1.76 × 1.65m"
+  },
+  {
+    "id": "vehicle-30",
+    "name": "贵州长江七号熊猫六方车",
+    "brand": "贵州长江",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "贵州长江常温面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "中航",
+        "value": "国轩电池，38.7度/40.55度"
+      },
+      {
+        "label": "续航",
+        "value": "260公里"
+      },
+      {
+        "label": "货厢尺寸长宽高（原文）",
+        "value": "2.77 × 1.58 × 1.3"
+      },
+      {
+        "label": "轮毂宽",
+        "value": "1.23"
+      },
+      {
+        "label": "配置",
+        "value": "后尾门宽度1.16，高度1.3，对角1.57"
+      },
+      {
+        "label": "配置",
+        "value": "侧拉门，尾门上下开"
+      },
+      {
+        "label": "总质量",
+        "value": "2680kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-30/image2.webp",
+      "/vehicles/vehicle-30/image1.webp",
+      "/vehicles/vehicle-30/image3.webp",
+      "/vehicles/vehicle-30/image8.webp",
+      "/vehicles/vehicle-30/image9.webp"
+    ],
+    "sourceFiles": [
+      "贵州长江七号熊猫六方车.docx"
+    ],
+    "battery": "中航：国轩电池，38.7度/40.55度",
+    "range": "260公里",
+    "cargoVolume": "6方",
+    "payload": "",
+    "dimensions": "2.77 × 1.58 × 1.3"
+  },
+  {
+    "id": "vehicle-31",
+    "name": "远程锋锐F3E",
+    "brand": "吉利远程",
+    "temperature": "常温",
+    "bodyType": "平板",
+    "bodyTypes": [
+      "平板"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "吉利远程常温平板车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "平板"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "宁德时代电池，55.7度"
+      },
+      {
+        "label": "续航",
+        "value": "250公里"
+      },
+      {
+        "label": "货厢尺寸长宽高（原文）",
+        "value": "3.7 × 1.75 × 0.36"
+      },
+      {
+        "label": "总质量",
+        "value": "3495kg"
+      },
+      {
+        "label": "整备质量",
+        "value": "2000kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-31/image2.webp",
+      "/vehicles/vehicle-31/image3.webp",
+      "/vehicles/vehicle-31/image1.webp",
+      "/vehicles/vehicle-31/image4.webp",
+      "/vehicles/vehicle-31/image5.webp"
+    ],
+    "sourceFiles": [
+      "远程锋锐F3E.docx"
+    ],
+    "battery": "宁德时代电池，55.7度",
+    "range": "250公里",
+    "cargoVolume": "",
+    "payload": "",
+    "dimensions": "3.7 × 1.75 × 0.36"
+  },
+  {
+    "id": "vehicle-32",
+    "name": "金旅GLE570",
+    "brand": "金旅",
+    "temperature": "常温",
+    "bodyType": "面包",
+    "bodyTypes": [
+      "面包"
+    ],
+    "published": true,
+    "availability": "待确认",
+    "description": "金旅常温面包车型，可咨询租赁或购买方案。",
+    "highlights": [
+      "常温",
+      "面包"
+    ],
+    "specs": [
+      {
+        "label": "动力电池",
+        "value": "宁德时代电池，41.86度"
+      },
+      {
+        "label": "续航",
+        "value": "260公里"
+      },
+      {
+        "label": "货箱尺寸长宽高（原文）",
+        "value": "2.6 × 1.47 × 1.31"
+      },
+      {
+        "label": "轮毂间距",
+        "value": "1.15"
+      },
+      {
+        "label": "配置",
+        "value": "后尾门宽度1.25，高度1.15，斜对角1.6"
+      },
+      {
+        "label": "配置",
+        "value": "侧拉门，对开尾门"
+      },
+      {
+        "label": "总质量",
+        "value": "2600kg"
+      },
+      {
+        "label": "座位数",
+        "value": "2人"
+      }
+    ],
+    "images": [
+      "/vehicles/vehicle-32/image4.webp",
+      "/vehicles/vehicle-32/image2.webp",
+      "/vehicles/vehicle-32/image1.webp",
+      "/vehicles/vehicle-32/image3.webp",
+      "/vehicles/vehicle-32/image7.webp",
+      "/vehicles/vehicle-32/image8.webp"
+    ],
+    "sourceFiles": [
+      "金旅GLE570.docx"
+    ],
+    "battery": "宁德时代电池，41.86度",
+    "range": "260公里",
+    "cargoVolume": "",
+    "payload": "",
+    "dimensions": "2.6 × 1.47 × 1.31"
+  }
+]
